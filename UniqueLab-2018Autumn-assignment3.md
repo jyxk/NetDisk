@@ -40,7 +40,11 @@
 
 * [FUSE](https://osxfuse.github.io/)  
 * [GOOGLE](https://www.google.com/)  
+* [Linux文件系统简介](https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/index.html)
+* [inode](https://en.wikipedia.org/wiki/Inode)
+
 * **请勿抄袭**  
 * **善用搜索引擎**  
+* 关键字: `inode` `超级块`
 
 ~~~别的没有了,出题人是魔鬼~~~  
